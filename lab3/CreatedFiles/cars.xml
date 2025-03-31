@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dealership>
+  <brand brandName="Toyota" brandId="1">
+    <car carId="001">
+      <model>Camry</model>
+      <year>2020</year>
+      <price>25000</price>
+      <features>
+        <feature>Hybrid</feature>
+        <feature>Navigation</feature>
+      </features>
+      <dealerId>0</dealerId>
+    </car>
+    <car carId="002">
+      <model>Corolla</model>
+      <year>2021</year>
+      <price>20000</price>
+      <features>
+        <feature>Compact</feature>
+        <feature>Bluetooth</feature>
+      </features>
+      <dealerId>001</dealerId>
+    </car>
+  </brand>
+  <brand brandName="Honda" brandId="2">
+    <car carId="003">
+      <model>Civic</model>
+      <year>2019</year>
+      <price>18000</price>
+      <features>
+        <feature>Turbo</feature>
+        <feature>Sunroof</feature>
+      </features>
+      <dealerId>0</dealerId>
+    </car>
+    <car carId="004">
+      <model>Accord</model>
+      <year>2022</year>
+      <price>28000</price>
+      <features>
+        <feature>Leather</feature>
+        <feature>Backup Camera</feature>
+      </features>
+      <dealerId>003</dealerId>
+    </car>
+  </brand>
+</dealership>
