@@ -1,0 +1,14 @@
+{
+  "dealership" : [ {
+    "brandName" : "Toyota",
+    "brandId" : "1",
+    "cars" : [ {
+      "carId" : "001",
+      "model" : "Camry",
+      "year" : 2020,
+      "price" : 25000,
+      "features" : [ "Hybrid", "Navigation" ],
+      "dealerId" : "0"
+    } ]
+  } ]
+}
